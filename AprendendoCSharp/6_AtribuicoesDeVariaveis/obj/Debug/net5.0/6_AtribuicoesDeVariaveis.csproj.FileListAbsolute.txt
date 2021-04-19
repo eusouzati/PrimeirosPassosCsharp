@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\6_AtribuicoesDeVariaveis.exe
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\6_AtribuicoesDeVariaveis.deps.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\6_AtribuicoesDeVariaveis.runtimeconfig.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\6_AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\6_AtribuicoesDeVariaveis.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\ref\6_AtribuicoesDeVariaveis.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\bin\Debug\net5.0\6_AtribuicoesDeVariaveis.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\ref\6_AtribuicoesDeVariaveis.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\6_AtribuicoesDeVariaveis\obj\Debug\net5.0\6_AtribuicoesDeVariaveis.genruntimeconfig.cache

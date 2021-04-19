@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\5_CaracteresETexto.exe
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\5_CaracteresETexto.deps.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\5_CaracteresETexto.runtimeconfig.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\5_CaracteresETexto.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\5_CaracteresETexto.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\ref\5_CaracteresETexto.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\bin\Debug\net5.0\5_CaracteresETexto.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\ref\5_CaracteresETexto.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\5_CaracteresETexto\obj\Debug\net5.0\5_CaracteresETexto.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.exe
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.deps.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.runtimeconfig.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\ref\8_Condicionais2.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\ref\8_Condicionais2.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.genruntimeconfig.cache

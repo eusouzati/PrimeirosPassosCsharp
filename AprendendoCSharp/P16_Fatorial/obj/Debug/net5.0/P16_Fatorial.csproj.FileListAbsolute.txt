@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\P16_Fatorial.exe
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\P16_Fatorial.deps.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\P16_Fatorial.runtimeconfig.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\P16_Fatorial.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\P16_Fatorial.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\ref\P16_Fatorial.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\bin\Debug\net5.0\P16_Fatorial.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\ref\P16_Fatorial.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\P16_Fatorial\obj\Debug\net5.0\P16_Fatorial.genruntimeconfig.cache

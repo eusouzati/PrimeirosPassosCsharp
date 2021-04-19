@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\9_Escopo.exe
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\9_Escopo.deps.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\9_Escopo.runtimeconfig.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\9_Escopo.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\9_Escopo.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\ref\9_Escopo.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\bin\Debug\net5.0\9_Escopo.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\ref\9_Escopo.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_Escopo\obj\Debug\net5.0\9_Escopo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\9_1_ComandoSwitch.exe
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\9_1_ComandoSwitch.deps.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\9_1_ComandoSwitch.runtimeconfig.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\9_1_ComandoSwitch.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\9_1_ComandoSwitch.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\ref\9_1_ComandoSwitch.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\bin\Debug\net5.0\9_1_ComandoSwitch.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\ref\9_1_ComandoSwitch.dll
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.pdb
+C:\workspace\Alura\CSharp\AprendendoCSharp\9_1_ComandoSwitch\obj\Debug\net5.0\9_1_ComandoSwitch.genruntimeconfig.cache
